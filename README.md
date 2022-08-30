@@ -1,4 +1,4 @@
-# yolov7 tensorrt test
+# Yolov7 TensorRt Traffic Sign Detection
  
 You can create your own lane segmentation model using **this dataset** https://www.kaggle.com/datasets/mehmetokuyar/traffic-sign-dataset , then you can set up a traffic sign detection algorithm by referencing this code.
 
