@@ -2,6 +2,8 @@
  
 You can create your own lane segmentation model using **this dataset** https://www.kaggle.com/datasets/mehmetokuyar/traffic-sign-dataset , then you can set up a traffic sign detection algorithm by referencing this code.
 
+**Note:** You can easily use this code in your own projects by changing the class names in the code.
+
 ### Run the application
 The input parameters can be changed using the command line :
 ~~~
